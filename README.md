@@ -37,7 +37,7 @@ prompt = "It's nice that they support English, but the menus are a bit strange i
 ```
 
 ## Build an App UI with Gradio
-* Gradio Public link: https://8f894cb4e711831e19.gradio.live/
+* Gradio Public link: https://acebffc69651a2c3ec.gradio.live
 <img width="1056" alt="App UI" src="https://github.com/jmin-39/An-app-to-review-feedback-for-a-product-UI/assets/85851625/a8575d8a-0013-4f04-a636-554b43f9e68b">
 
 
