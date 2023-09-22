@@ -42,7 +42,7 @@ prompt = "It's nice that they support English, but the menus are a bit strange i
 
 
 ## Next steps
-- Due to capacity issues with the local LLM model, I opted to use LLM GPT for the project.
+- Due to capacity issues with the local LLM model, I opted to use GPT-3 using Openai.
 - The necessity of fine-tuning with review data
 
 ## References
