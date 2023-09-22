@@ -3,9 +3,10 @@
 ## Goals
 In the context of building a demo application for app review feedback from the Apple Store, I have developed a user interface (UI) that effectively gathers both rating and review data. This UI incorporates three crucial functions provided through Gradio output, namely sentiment analysis, summarization, and entity extraction.
 
-- Entity extraction: involves identifying and extracting specific entities or information from a given review data
+- Entity extraction - involves identifying and extracting specific entities or information from a given review data
 - Sentiment - the overall positive or negative sentiment of each review data
 - Summary - generate a summary of the review data
+- Rating - extract the rating (on a scale of 1 to 5) 
 
 ## Flow
 <img width="651" alt="flow" src="https://github.com/jmin-39/An-app-to-review-feedback-for-a-product/assets/85851625/0253d3ee-0879-427e-8274-c632ade01e8a">
