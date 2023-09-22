@@ -38,15 +38,16 @@ prompt = "It's nice that they support English, but the menus are a bit strange i
 
 ## Build an App UI with Gradio
 * Gradio Public link: https://5f9d920f62dbcfc2c5.gradio.live](https://33ba773263d50b79f5.gradio.live
-<img width="1050" alt="App UI" src="https://github.com/jmin-39/An-app-to-review-feedback-for-a-product/assets/85851625/6d92561f-1a0b-4f3d-a55f-88dca8b246ac">
+<img width="1056" alt="App UI" src="https://github.com/jmin-39/An-app-to-review-feedback-for-a-product-UI/assets/85851625/a8575d8a-0013-4f04-a636-554b43f9e68b">
+
 
 * Sample App UI
-<img width="1047" alt="Sample App UI" src="https://github.com/jmin-39/An-app-to-review-feedback-for-a-product/assets/85851625/9b586051-4af6-49af-bb43-dda7baec13e4">
+<img width="1042" alt="Sample App UI" src="https://github.com/jmin-39/An-app-to-review-feedback-for-a-product-UI/assets/85851625/ab1dc3e1-1216-4722-a464-920ac81bcdb2">
 
 
 ## Next steps
 - Due to capacity issues with the local LLM model, I opted to use GPT-3 using Openai.
-- The necessity of fine-tuning with review data
+- The necessity of fine-tuning
 
 ## References
 - https://apps.apple.com/us/app/youtube-watch-listen-stream/id544007664](https://apps.apple.com/us/app/%EC%BF%A0%ED%8C%A1%EC%9D%B4%EC%B8%A0-%EB%B0%B0%EB%8B%AC%EC%95%B1/id1445504255
