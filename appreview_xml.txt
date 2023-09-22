@@ -1,0 +1,3231 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<feed xmlns:im="http://itunes.apple.com/rss" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+		<id>https://mzstoreservices-int-st.itunes.apple.com/us/rss/customerreviews/page=1/id=1445504255/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1445504255/sortBy=mostRecent/xml</id><title>iTunes Store: Customer Reviews</title><updated>2023-09-21T00:10:55-07:00</updated><link rel="alternate" type="text/html" href="https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=1"/><link rel="self" href="https://mzstoreservices-int-st.itunes.apple.com/us/rss/customerreviews/page=1/id=1445504255/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1445504255/sortBy=mostRecent/xml"/><link rel="first" href="https://itunes.apple.com/us/rss/customerreviews/page=1/id=1445504255/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1445504255/sortby=mostrecent/xml"/><link rel="last" href="https://itunes.apple.com/us/rss/customerreviews/page=2/id=1445504255/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1445504255/sortby=mostrecent/xml"/><link rel="previous" href="https://itunes.apple.com/us/rss/customerreviews/page=1/id=1445504255/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1445504255/sortby=mostrecent/xml"/><link rel="next" href="https://itunes.apple.com/us/rss/customerreviews/page=2/id=1445504255/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=1445504255/sortby=mostrecent/xml"/><icon>http://itunes.apple.com/favicon.ico</icon><author><name>iTunes Store</name><uri>http://www.apple.com/itunes/</uri></author><rights>Copyright 2008 Apple Inc.</rights>
+		
+			<entry>
+				
+					<id>10366575415</id>
+				
+					<title>조아요</title>
+				
+					<content type="text">조아요</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2023-09-14T01:11:53-07:00</updated>
+				
+					<im:version>1.4.22</im:version>
+				
+					<author><name>syppkkkkk</name><uri>https://itunes.apple.com/us/reviews/id987867108</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;조아요&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;조아요&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>10340146905</id>
+				
+					<title>배달 지연이 너무 잦음</title>
+				
+					<content type="text">배달이 늦은걸 식당에서 조리가 늦었다고 핑계를 대고</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>1</im:rating>
+				
+					<updated>2023-09-06T07:11:11-07:00</updated>
+				
+					<im:version>1.4.20</im:version>
+				
+					<author><name>Onenonly99</name><uri>https://itunes.apple.com/us/reviews/id124369353</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;배달 지연이 너무 잦음&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;배달이 늦은걸 식당에서 조리가 늦었다고 핑계를 대고&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>10278222439</id>
+				
+					<title>쿠팡이츠는</title>
+				
+					<content type="text">BGETS</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2023-08-19T20:32:56-07:00</updated>
+				
+					<im:version>1.4.18</im:version>
+				
+					<author><name>adadgqgd94</name><uri>https://itunes.apple.com/us/reviews/id1561688479</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;쿠팡이츠는&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;BGETS&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>10114106247</id>
+				
+					<title>ugh…</title>
+				
+					<content type="text">i’ve spent thousands and thousands of dollars through this app over the years, but the customer service is racist and bizarre. an offensive waste of time</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>1</im:rating>
+				
+					<updated>2023-07-07T08:31:29-07:00</updated>
+				
+					<im:version>1.4.9</im:version>
+				
+					<author><name>coughsoda</name><uri>https://itunes.apple.com/us/reviews/id35466246</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;ugh…&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;i’ve spent thousands and thousands of dollars through this app over the years, but the customer service is racist and bizarre. an offensive waste of time&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>10091676682</id>
+				
+					<title>쿠팡이츠 솔찍리뷰</title>
+				
+					<content type="text">쿠팡이츠 타 돈네는 불편하다고 하네요! 근데 저희 동네는 쿠팡이츠가 가방 좋음 ㅋㅋㅋ</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2023-07-01T02:20:47-07:00</updated>
+				
+					<im:version>1.4.9</im:version>
+				
+					<author><name>초기화 시켜라 좀</name><uri>https://itunes.apple.com/us/reviews/id202119490</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;쿠팡이츠 솔찍리뷰&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;쿠팡이츠 타 돈네는 불편하다고 하네요! 근데 저희 동네는 쿠팡이츠가 가방 좋음 ㅋㅋㅋ&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>9968880067</id>
+				
+					<title>Good</title>
+				
+					<content type="text">Very professional delivery service and delivery charge was so cheap.</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2023-05-26T17:38:28-07:00</updated>
+				
+					<im:version>1.4.3</im:version>
+				
+					<author><name>마넺</name><uri>https://itunes.apple.com/us/reviews/id272710976</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;Good&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Very professional delivery service and delivery charge was so cheap.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>9925669105</id>
+				
+					<title>Nice app!</title>
+				
+					<content type="text">I think this app is definitely more delivery friendly for English speakers in comparison to other ones. I like that the delivery drivers, that I’ve had so far, have arrived in a car instead of those crazy motorcycles. Great service!</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2023-05-14T03:58:46-07:00</updated>
+				
+					<im:version>1.4.1</im:version>
+				
+					<author><name>B00gers!</name><uri>https://itunes.apple.com/us/reviews/id1486526949</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;Nice app!&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;I think this app is definitely more delivery friendly for English speakers in comparison to other ones. I like that the delivery drivers, that I’ve had so far, have arrived in a car instead of those crazy motorcycles. Great service!&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>9755810553</id>
+				
+					<title>good</title>
+				
+					<content type="text">빠르고 싸고 다양함</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>4</im:rating>
+				
+					<updated>2023-03-26T17:34:39-07:00</updated>
+				
+					<im:version>1.3.85</im:version>
+				
+					<author><name>KIM FARO</name><uri>https://itunes.apple.com/us/reviews/id205703547</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;good&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;빠르고 싸고 다양함&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>9674223998</id>
+				
+					<title>Ridiculous lost ID functionality</title>
+				
+					<content type="text">The app has locked me out of my account after updating. For more than 6 months I cannot access my account because it asks me for the “name” I typed in. I have no idea what I typed. Nothing works. Can’t use the same “email a password to a user” that the rest of the world uses. No, coupang is special, so we have to remember whatever stupid name we typed when we made the account or the app becomes useless.</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>1</im:rating>
+				
+					<updated>2023-03-03T03:46:36-07:00</updated>
+				
+					<im:version>1.3.82</im:version>
+				
+					<author><name>Why are you so stupid?</name><uri>https://itunes.apple.com/us/reviews/id158877004</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;Ridiculous lost ID functionality&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;The app has locked me out of my account after updating. For more than 6 months I cannot access my account because it asks me for the “name” I typed in. I have no idea what I typed. Nothing works. Can’t use the same “email a password to a user” that the rest of the world uses. No, coupang is special, so we have to remember whatever stupid name we typed when we made the account or the app becomes useless.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>9250272413</id>
+				
+					<title>훌륭합니다</title>
+				
+					<content type="text">가격대비가격</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2022-11-03T04:00:18-07:00</updated>
+				
+					<im:version>1.3.66</im:version>
+				
+					<author><name>ryuchb</name><uri>https://itunes.apple.com/us/reviews/id113935334</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;훌륭합니다&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;가격대비가격&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>9249958221</id>
+				
+					<title>짱..</title>
+				
+					<content type="text">쿠팡이 제일 빠름 진ㅋ자</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2022-11-03T01:39:32-07:00</updated>
+				
+					<im:version>1.3.66</im:version>
+				
+					<author><name>Dhjskakejdjakqk</name><uri>https://itunes.apple.com/us/reviews/id427317998</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;짱..&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;쿠팡이 제일 빠름 진ㅋ자&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>9076879162</id>
+				
+					<title>PLEASE ADD CONFIRMATION STEP</title>
+				
+					<content type="text">Please add confirmation step before purchase. You know once customer order, it is almost impossible to cancel order. Last time I just wanted to check discount applying correctly but unlike other food delivery service, there were no order confirmation step and I should have to purchase menu which I have never wanted. I even called customer service &amp; diner immediately but they refused to cancel. 
+
+If order procedure is highly impossible to cancel, there should be confirmation step before purchase.</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>1</im:rating>
+				
+					<updated>2022-09-12T01:39:05-07:00</updated>
+				
+					<im:version>1.3.58</im:version>
+				
+					<author><name>어으두ㅜ아</name><uri>https://itunes.apple.com/us/reviews/id149243022</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;PLEASE ADD CONFIRMATION STEP&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Please add confirmation step before purchase. You know once customer order, it is almost impossible to cancel order. Last time I just wanted to check discount applying correctly but unlike other food delivery service, there were no order confirmation step and I should have to purchase menu which I have never wanted. I even called customer service &amp;amp; diner immediately but they refused to cancel. &lt;br/&gt;&lt;br/&gt;If order procedure is highly impossible to cancel, there should be confirmation step before purchase.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>9073475631</id>
+				
+					<title>The best around</title>
+				
+					<content type="text">For ordering food in Korea, especially as a foreigner, there’s nothing better. The only bad things are on the end of the restaurants, which is just bound to happen from time to time. I made the switch from 요기요 ages ago and I’ve never looked back.</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2022-09-11T01:37:47-07:00</updated>
+				
+					<im:version>1.3.58</im:version>
+				
+					<author><name>잭 Jack</name><uri>https://itunes.apple.com/us/reviews/id179124826</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;The best around&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;For ordering food in Korea, especially as a foreigner, there’s nothing better. The only bad things are on the end of the restaurants, which is just bound to happen from time to time. I made the switch from 요기요 ages ago and I’ve never looked back.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>9072436845</id>
+				
+					<title>엄청 맛있어요.</title>
+				
+					<content type="text">원래 족발을 좋아하지 않는데
+여기 족발은 엄청 잘 먹어요!!!
+
+하나도 남김없이 먹었네요</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2022-09-10T17:44:40-07:00</updated>
+				
+					<im:version>1.3.58</im:version>
+				
+					<author><name>파이어123ㄱㅅ</name><uri>https://itunes.apple.com/us/reviews/id351495334</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;엄청 맛있어요.&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;원래 족발을 좋아하지 않는데&lt;br/&gt;여기 족발은 엄청 잘 먹어요!!!&lt;br/&gt;&lt;br/&gt;하나도 남김없이 먹었네요&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>9043355218</id>
+				
+					<title>Must Have Delivery App!</title>
+				
+					<content type="text">Coupang Eats is a MUST have app for expats living in Korea. English translation for menus is always growing. The app is rock-solid and support has been quick and easy if there is a order or delivery problem.</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2022-09-01T21:50:42-07:00</updated>
+				
+					<im:version>1.3.58</im:version>
+				
+					<author><name>Lonestartcu</name><uri>https://itunes.apple.com/us/reviews/id43628798</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;Must Have Delivery App!&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Coupang Eats is a MUST have app for expats living in Korea. English translation for menus is always growing. The app is rock-solid and support has been quick and easy if there is a order or delivery problem.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>9020825208</id>
+				
+					<title>Delays</title>
+				
+					<content type="text">Recently the app has had trouble connecting orders to delivery partners or the order times will become significantly delayed. This doesn’t happen when ordering the same menu from other apps. Needs to be addressed.</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>2</im:rating>
+				
+					<updated>2022-08-26T16:57:52-07:00</updated>
+				
+					<im:version>1.3.57</im:version>
+				
+					<author><name>lpoindex</name><uri>https://itunes.apple.com/us/reviews/id297051647</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;Delays&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Recently the app has had trouble connecting orders to delivery partners or the order times will become significantly delayed. This doesn’t happen when ordering the same menu from other apps. Needs to be addressed.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>9014672810</id>
+				
+					<title>맛있어요.</title>
+				
+					<content type="text">달달 매콤 맛있어요.</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2022-08-25T01:55:21-07:00</updated>
+				
+					<im:version>1.3.57</im:version>
+				
+					<author><name>Kevinnjoy</name><uri>https://itunes.apple.com/us/reviews/id107795461</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;맛있어요.&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;달달 매콤 맛있어요.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>8835088408</id>
+				
+					<title>Horrible</title>
+				
+					<content type="text">this is a terrible food delivery service!!!!  4 times in a week I had my order delayed for two or three hours, and I had to refuse it.  this is a terrible service</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>1</im:rating>
+				
+					<updated>2022-07-02T21:18:53-07:00</updated>
+				
+					<im:version>1.3.48</im:version>
+				
+					<author><name>Mike.V.H.</name><uri>https://itunes.apple.com/us/reviews/id1014940481</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;Horrible&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;this is a terrible food delivery service!!!!  4 times in a week I had my order delayed for two or three hours, and I had to refuse it.  this is a terrible service&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>8825567564</id>
+				
+					<title>본인인증 혐</title>
+				
+					<content type="text">전화번호인증 안되면 다른 인증방법이라도 있어야지 결제방법 세개다 전화번호인증 답답함</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>1</im:rating>
+				
+					<updated>2022-06-30T04:19:55-07:00</updated>
+				
+					<im:version>1.3.48</im:version>
+				
+					<author><name>Handy Beag</name><uri>https://itunes.apple.com/us/reviews/id973653879</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;본인인증 혐&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;전화번호인증 안되면 다른 인증방법이라도 있어야지 결제방법 세개다 전화번호인증 답답함&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>8638075127</id>
+				
+					<title>English Language Missing</title>
+				
+					<content type="text">App is great but lacking English Language</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>3</im:rating>
+				
+					<updated>2022-05-04T18:31:31-07:00</updated>
+				
+					<im:version>1.3.42</im:version>
+				
+					<author><name>M7md m</name><uri>https://itunes.apple.com/us/reviews/id134799898</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;English Language Missing&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;App is great but lacking English Language&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>8278111266</id>
+				
+					<title>Worst app ever!!! Number one sexist company</title>
+				
+					<content type="text">Worst</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>1</im:rating>
+				
+					<updated>2022-01-24T09:25:29-07:00</updated>
+				
+					<im:version>1.3.29</im:version>
+				
+					<author><name>Wdjsnbbv</name><uri>https://itunes.apple.com/us/reviews/id408749840</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;Worst app ever!!! Number one sexist company&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Worst&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>8264673868</id>
+				
+					<title>do better</title>
+				
+					<content type="text">i saw the recent incident calling women “보지” and what not. those comments were purely sexist, disrespectful and out of date. whoever wrote it and confirmed it both should be suspended at least. do educate your team better. such a shame, i really found the app to be useful.</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>1</im:rating>
+				
+					<updated>2022-01-20T22:44:26-07:00</updated>
+				
+					<im:version>1.3.28</im:version>
+				
+					<author><name>mac00kim</name><uri>https://itunes.apple.com/us/reviews/id1005995923</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;do better&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;i saw the recent incident calling women “보지” and what not. those comments were purely sexist, disrespectful and out of date. whoever wrote it and confirmed it both should be suspended at least. do educate your team better. such a shame, i really found the app to be useful.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>8262342547</id>
+				
+					<title>A Korean Misogyny Company</title>
+				
+					<content type="text">YOU SHOULD NOT USE THIS APP</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>1</im:voteSum>
+				
+					<im:voteCount>1</im:voteCount>
+				
+					<im:rating>1</im:rating>
+				
+					<updated>2022-01-20T07:12:42-07:00</updated>
+				
+					<im:version>1.3.28</im:version>
+				
+					<author><name>nulltoboki</name><uri>https://itunes.apple.com/us/reviews/id1251588953</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;A Korean Misogyny Company&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;YOU SHOULD NOT USE THIS APP&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>8261091752</id>
+				
+					<title>고객센터 개선이 필요합니다.</title>
+				
+					<content type="text">앱은 상당히 편하고 좋지만 고객센터는 전화나 이메일 뿐인데 전화는 받지를 않아 연결이 매우 어려우며 이메일 또한 며칠이 지나도 답이 없습니다. 배민처럼 chat 서비스가 필요합니다.</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>1</im:rating>
+				
+					<updated>2022-01-19T23:45:55-07:00</updated>
+				
+					<im:version>1.3.28</im:version>
+				
+					<author><name>chul2652</name><uri>https://itunes.apple.com/us/reviews/id149627356</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;고객센터 개선이 필요합니다.&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;앱은 상당히 편하고 좋지만 고객센터는 전화나 이메일 뿐인데 전화는 받지를 않아 연결이 매우 어려우며 이메일 또한 며칠이 지나도 답이 없습니다. 배민처럼 chat 서비스가 필요합니다.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>8260706812</id>
+				
+					<title>Horrible</title>
+				
+					<content type="text">Misogyny company
+Be Shameful</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>1</im:voteSum>
+				
+					<im:voteCount>1</im:voteCount>
+				
+					<im:rating>1</im:rating>
+				
+					<updated>2022-01-19T21:00:42-07:00</updated>
+				
+					<im:version>1.3.28</im:version>
+				
+					<author><name>rip8282</name><uri>https://itunes.apple.com/us/reviews/id1336242429</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;Horrible&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Misogyny company&lt;br/&gt;Be Shameful&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>8218486795</id>
+				
+					<title>앱내 언어변경 추가해주세요</title>
+				
+					<content type="text">영어를 지원하는건 좋은데 메뉴들이 영어로는 좀 이상해요. 앱내에서 언어설정할 수 있게 되면 좋겠어요</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>3</im:rating>
+				
+					<updated>2022-01-08T08:39:41-07:00</updated>
+				
+					<im:version>1.3.26</im:version>
+				
+					<author><name>sangilyun</name><uri>https://itunes.apple.com/us/reviews/id389401605</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;앱내 언어변경 추가해주세요&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;영어를 지원하는건 좋은데 메뉴들이 영어로는 좀 이상해요. 앱내에서 언어설정할 수 있게 되면 좋겠어요&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>8216245383</id>
+				
+					<title>Dark mode support</title>
+				
+					<content type="text">다크모드 추가해주시면 완벽할듯!!!</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2022-01-07T18:25:15-07:00</updated>
+				
+					<im:version>1.3.26</im:version>
+				
+					<author><name>내토누ㅑㅇ타ㅓㅊ</name><uri>https://itunes.apple.com/us/reviews/id1175029409</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;Dark mode support&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;다크모드 추가해주시면 완벽할듯!!!&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>8208841483</id>
+				
+					<title>아침식사</title>
+				
+					<content type="text">잘 먹었습니다</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2022-01-05T17:10:08-07:00</updated>
+				
+					<im:version>1.3.26</im:version>
+				
+					<author><name>maetael</name><uri>https://itunes.apple.com/us/reviews/id310639084</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;아침식사&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;잘 먹었습니다&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>8128058392</id>
+				
+					<title>Best app</title>
+				
+					<content type="text">Excellent!!!</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2021-12-13T21:20:46-07:00</updated>
+				
+					<im:version>1.3.23</im:version>
+				
+					<author><name>wow5000</name><uri>https://itunes.apple.com/us/reviews/id36245473</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;Best app&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Excellent!!!&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>8047554250</id>
+				
+					<title>저 이거땜에 죽고싶네요;</title>
+				
+					<content type="text">서비스 개구리고요 배달기사가 요청란 안 보고 문 쾅쾅거리다 쌍욕 박고 음식 집어던지고 가고 근데 고객센터에선 못 도와드려서 죄송하다 반복재생ㅎㅎㅎㅎㅎㅎ 배달어플인데 거식증 생긱ㅎ 음식만 보면 토하고 지랄났어요 와</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>1</im:rating>
+				
+					<updated>2021-11-21T04:30:40-07:00</updated>
+				
+					<im:version>1.3.19</im:version>
+				
+					<author><name>현현_</name><uri>https://itunes.apple.com/us/reviews/id632229513</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;저 이거땜에 죽고싶네요;&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;서비스 개구리고요 배달기사가 요청란 안 보고 문 쾅쾅거리다 쌍욕 박고 음식 집어던지고 가고 근데 고객센터에선 못 도와드려서 죄송하다 반복재생ㅎㅎㅎㅎㅎㅎ 배달어플인데 거식증 생긱ㅎ 음식만 보면 토하고 지랄났어요 와&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>7796856024</id>
+				
+					<title>배달시간 맨날 늦춤</title>
+				
+					<content type="text">고질적인 문제네요
+항상 예상배달시간 조금씩 조금씩 늦춰서
+치타배달이고 나발이고 무색하게 만드는 거
+한두번도 아니고 거의 매번 그러니
+상술이라고밖엔 표현이 안됨요 ㅎㅎ
+There’s a chronic issue of this app alwaysssss delaying the estimated delivery time. Why are they putting forward ‘Cheetah delivery’ in the first place when they change the time gradually EVERY SINGLE TIME ?!</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>3</im:rating>
+				
+					<updated>2021-09-11T19:50:28-07:00</updated>
+				
+					<im:version>1.3.10</im:version>
+				
+					<author><name>Younginislovely</name><uri>https://itunes.apple.com/us/reviews/id461395410</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;배달시간 맨날 늦춤&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;고질적인 문제네요&lt;br/&gt;항상 예상배달시간 조금씩 조금씩 늦춰서&lt;br/&gt;치타배달이고 나발이고 무색하게 만드는 거&lt;br/&gt;한두번도 아니고 거의 매번 그러니&lt;br/&gt;상술이라고밖엔 표현이 안됨요 ㅎㅎ&lt;br/&gt;There’s a chronic issue of this app alwaysssss delaying the estimated delivery time. Why are they putting forward ‘Cheetah delivery’ in the first place when they change the time gradually EVERY SINGLE TIME ?!&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>7758230224</id>
+				
+					<title>Account deletion</title>
+				
+					<content type="text">They don’t allow account deletion. They only tell you to delete the app as you can’t delete Coupang Eats account separately. But I never signed up for Coupang so I don’t know what’s going on. Suspect privacy policy.</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>1</im:rating>
+				
+					<updated>2021-09-01T02:48:03-07:00</updated>
+				
+					<im:version>1.3.8</im:version>
+				
+					<author><name>AllenAC17</name><uri>https://itunes.apple.com/us/reviews/id182259214</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;Account deletion&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;They don’t allow account deletion. They only tell you to delete the app as you can’t delete Coupang Eats account separately. But I never signed up for Coupang so I don’t know what’s going on. Suspect privacy policy.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>7716511456</id>
+				
+					<title>Apple Watch</title>
+				
+					<content type="text">Apple Watch 연동하게 해주세요!</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2021-08-20T19:19:54-07:00</updated>
+				
+					<im:version>1.3.7</im:version>
+				
+					<author><name>Just great awesome</name><uri>https://itunes.apple.com/us/reviews/id166345472</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;Apple Watch&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Apple Watch 연동하게 해주세요!&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>7597191566</id>
+				
+					<title>아이패드 가로모드 지원좀ㅎ ㅐ주세요</title>
+				
+					<content type="text">아이패드 가로모드 지원좀ㅎ ㅐ주세요</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>2</im:rating>
+				
+					<updated>2021-07-20T02:02:12-07:00</updated>
+				
+					<im:version>1.3.3</im:version>
+				
+					<author><name>석사성준</name><uri>https://itunes.apple.com/us/reviews/id663696969</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;아이패드 가로모드 지원좀ㅎ ㅐ주세요&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;아이패드 가로모드 지원좀ㅎ ㅐ주세요&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>7574194166</id>
+				
+					<title>나무 젓가락으로 스콘 먹고 리뷰 씁니다</title>
+				
+					<content type="text">한국말이 서툴러서 영어로 씁니다
+
+I’m a foreigner living in Korea who has been ordering delivery for years. I used to use a different app but switched over to coupang eats because of the menu layout and speedy delivery. My only complaints are how there isn’t a language setting for the app because even though my phone language is set in English I would like to read the menu items in Korean so I know exactly what I’m ordering(sometimes the translations are off). The only way I can read the menu items in Korean is to change my phone language to Korean which is a bit inconvenient. Also recently they changed the disposable utensil option so you have to remember to request it which I have forgotten to do like 10 times now since I’m so used to not having to request it for YEARS. I had to eat my cake and scone today with wooden chopsticks that I found which triggered me to write this review lol. Please at least make it a yes or no option instead of an automatic no if you don’t check the box. My Korean friends also complained about this and constantly forgot to request it as well when we ordered delivery.</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>1</im:voteSum>
+				
+					<im:voteCount>1</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2021-07-13T21:57:25-07:00</updated>
+				
+					<im:version>1.3.2</im:version>
+				
+					<author><name>cdcdeee</name><uri>https://itunes.apple.com/us/reviews/id1194962598</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;나무 젓가락으로 스콘 먹고 리뷰 씁니다&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;한국말이 서툴러서 영어로 씁니다&lt;br/&gt;&lt;br/&gt;I’m a foreigner living in Korea who has been ordering delivery for years. I used to use a different app but switched over to coupang eats because of the menu layout and speedy delivery. My only complaints are how there isn’t a language setting for the app because even though my phone language is set in English I would like to read the menu items in Korean so I know exactly what I’m ordering(sometimes the translations are off). The only way I can read the menu items in Korean is to change my phone language to Korean which is a bit inconvenient. Also recently they changed the disposable utensil option so you have to remember to request it which I have forgotten to do like 10 times now since I’m so used to not having to request it for YEARS. I had to eat my cake and scone today with wooden chopsticks that I found which triggered me to write this review lol. Please at least make it a yes or no option instead of an automatic no if you don’t check the box. My Korean friends also complained about this and constantly forgot to request it as well when we ordered delivery.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>7533827462</id>
+				
+					<title>Solid app, very poor customer service</title>
+				
+					<content type="text">The app runs very well and it’s perhaps the most foreigner-friendly food delivery app in Korea. Over a year of using it without any problem.
+
+Last week however, a delivery partner claimed that he/she had delivered my order when they did not, and when I contact Coupang Eats Customer Service Center, they accused me of being at fault, pretty much saying that the delivery person had done the delivery when they did not. I had two additional orders that same night, without any issue
+
+Three days later, I am still waiting for my refund. Don’t ruin the app because of poor customer service.</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>3</im:rating>
+				
+					<updated>2021-07-03T01:44:03-07:00</updated>
+				
+					<im:version>1.3.0</im:version>
+				
+					<author><name>Edwin A. Dominguez</name><uri>https://itunes.apple.com/us/reviews/id477415797</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;Solid app, very poor customer service&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;The app runs very well and it’s perhaps the most foreigner-friendly food delivery app in Korea. Over a year of using it without any problem.&lt;br/&gt;&lt;br/&gt;Last week however, a delivery partner claimed that he/she had delivered my order when they did not, and when I contact Coupang Eats Customer Service Center, they accused me of being at fault, pretty much saying that the delivery person had done the delivery when they did not. I had two additional orders that same night, without any issue&lt;br/&gt;&lt;br/&gt;Three days later, I am still waiting for my refund. Don’t ruin the app because of poor customer service.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>7526488904</id>
+				
+					<title>How did I ever live without Coupang!?!</title>
+				
+					<content type="text">Thank you for the prompt delivery!</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2021-07-01T03:35:48-07:00</updated>
+				
+					<im:version>1.2.26</im:version>
+				
+					<author><name>HuskerDB</name><uri>https://itunes.apple.com/us/reviews/id149057245</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;How did I ever live without Coupang!?!&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Thank you for the prompt delivery!&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>7505337298</id>
+				
+					<title>Do not recommend</title>
+				
+					<content type="text">I don’t recommend order foods from immoral company, Coupang.</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>1</im:voteSum>
+				
+					<im:voteCount>1</im:voteCount>
+				
+					<im:rating>1</im:rating>
+				
+					<updated>2021-06-25T11:43:27-07:00</updated>
+				
+					<im:version>1.2.25</im:version>
+				
+					<author><name>HaloGonzal72</name><uri>https://itunes.apple.com/us/reviews/id477789815</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;Do not recommend&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;I don’t recommend order foods from immoral company, Coupang.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>7448443340</id>
+				
+					<title>주문내역 찾기</title>
+				
+					<content type="text">주문내역에서도 검색 기능 가능하게 해주세요</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2021-06-10T05:11:08-07:00</updated>
+				
+					<im:version>1.2.22</im:version>
+				
+					<author><name>Cyoon...</name><uri>https://itunes.apple.com/us/reviews/id1283519346</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;주문내역 찾기&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;주문내역에서도 검색 기능 가능하게 해주세요&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>7421450025</id>
+				
+					<title>Keeps crashing after using it for 2 weeks</title>
+				
+					<content type="text">This was working great when I first started using it a couple weeks ago. I tried multiple times to order dinner at work but it just keeps crashing. Totally unacceptable.
+
+Update: Still crashing... on TWO devices (iphone and ipad) i am downgrading this review to one star. What a huge disappointment.</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>1</im:rating>
+				
+					<updated>2021-06-03T05:19:05-07:00</updated>
+				
+					<im:version>1.2.21</im:version>
+				
+					<author><name>Gangrenous Khan</name><uri>https://itunes.apple.com/us/reviews/id411915833</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;Keeps crashing after using it for 2 weeks&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;This was working great when I first started using it a couple weeks ago. I tried multiple times to order dinner at work but it just keeps crashing. Totally unacceptable.&lt;br/&gt;&lt;br/&gt;Update: Still crashing... on TWO devices (iphone and ipad) i am downgrading this review to one star. What a huge disappointment.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>7417157971</id>
+				
+					<title>배민쓰세요.</title>
+				
+					<content type="text">리얼 암걸립니다. 자동차 걸리면 리얼 한시간 기본에 지연은 기본 두번 늘어납니다. 한번은 가게 주변 빙글빙글 계속 돌다가 갑자기 픽업취소하더랍니다.(가게를 못찾으면 미리 취소하던가 하지 15분을 같은곳을 돌아다니고나서 결국 하는 행동이 취소?) 그러고나서 한 5분 있다가 쌩뚱맞게 멀리있는 다른 사람이 재접수해서 1시간반만에 음식 받았습니다. 저날만 운이 좀 안좋았겠지 하고 오늘 주문 했는데 가게에서 20분 떨어진곳에서 배차받아서 식당 픽업 갔다가 다시 집까지 오는데만 한시간. 처음 30분 배달이 지연되서 40분, 또 한시간 넘어가네요. 떡볶이는 불어터지고 치킨 식고 한번에 한집만 배달이라고 빠르다고 하더니 배민보다 항상 오래걸립니다.</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>1</im:voteSum>
+				
+					<im:voteCount>1</im:voteCount>
+				
+					<im:rating>1</im:rating>
+				
+					<updated>2021-06-02T03:10:35-07:00</updated>
+				
+					<im:version>1.2.21</im:version>
+				
+					<author><name>폴라곰돌</name><uri>https://itunes.apple.com/us/reviews/id257270362</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;배민쓰세요.&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;리얼 암걸립니다. 자동차 걸리면 리얼 한시간 기본에 지연은 기본 두번 늘어납니다. 한번은 가게 주변 빙글빙글 계속 돌다가 갑자기 픽업취소하더랍니다.(가게를 못찾으면 미리 취소하던가 하지 15분을 같은곳을 돌아다니고나서 결국 하는 행동이 취소?) 그러고나서 한 5분 있다가 쌩뚱맞게 멀리있는 다른 사람이 재접수해서 1시간반만에 음식 받았습니다. 저날만 운이 좀 안좋았겠지 하고 오늘 주문 했는데 가게에서 20분 떨어진곳에서 배차받아서 식당 픽업 갔다가 다시 집까지 오는데만 한시간. 처음 30분 배달이 지연되서 40분, 또 한시간 넘어가네요. 떡볶이는 불어터지고 치킨 식고 한번에 한집만 배달이라고 빠르다고 하더니 배민보다 항상 오래걸립니다.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>7369811711</id>
+				
+					<title>좋아요 수고하셔요</title>
+				
+					<content type="text">좋아</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2021-05-21T05:17:05-07:00</updated>
+				
+					<im:version>1.2.19</im:version>
+				
+					<author><name>Oppafangurl</name><uri>https://itunes.apple.com/us/reviews/id49739508</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;좋아요 수고하셔요&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;좋아&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>7332298617</id>
+				
+					<title>진짜 별로네요</title>
+				
+					<content type="text">개발자 위주의 불편한 앱
+지금까지 싸본 배달 앱 중에 가장 최악
+다른 배달앱에 비해 배달비도 비쌈 음식값을 다른 곳보다 내리라고 갑질해서 음식점들이 울며 겨자먹기로 배달료을 올린건가 싶은 합리적 의심도 들었음 (내가 시킨 곳은 합치니 쿠팡 잇츠가 천원 가량 더 비쌌음)
+
+쿠팡 기업 이미지도 별로이구요
+프로모션 쿠폰만 다 쓰면 다시는 이용 안할 듯 합니다</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>1</im:rating>
+				
+					<updated>2021-05-12T22:25:56-07:00</updated>
+				
+					<im:version>1.2.18</im:version>
+				
+					<author><name>Driveeeeeeeee</name><uri>https://itunes.apple.com/us/reviews/id495129723</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;진짜 별로네요&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;개발자 위주의 불편한 앱&lt;br/&gt;지금까지 싸본 배달 앱 중에 가장 최악&lt;br/&gt;다른 배달앱에 비해 배달비도 비쌈 음식값을 다른 곳보다 내리라고 갑질해서 음식점들이 울며 겨자먹기로 배달료을 올린건가 싶은 합리적 의심도 들었음 (내가 시킨 곳은 합치니 쿠팡 잇츠가 천원 가량 더 비쌌음)&lt;br/&gt;&lt;br/&gt;쿠팡 기업 이미지도 별로이구요&lt;br/&gt;프로모션 쿠폰만 다 쓰면 다시는 이용 안할 듯 합니다&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>7227143044</id>
+				
+					<title>Reliable Delivery Service</title>
+				
+					<content type="text">Let’s you know when order goes through to the restaurant, then the delivery courier picks the food up from the restaurant and when it is delivered. Knowledge is power and info is disseminated very well by this company!</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2021-04-15T20:46:51-07:00</updated>
+				
+					<im:version>1.2.14</im:version>
+				
+					<author><name>LIZUMU</name><uri>https://itunes.apple.com/us/reviews/id7179871</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;Reliable Delivery Service&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Let’s you know when order goes through to the restaurant, then the delivery courier picks the food up from the restaurant and when it is delivered. Knowledge is power and info is disseminated very well by this company!&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>7187431424</id>
+				
+					<title>Please don’t use coupang eats</title>
+				
+					<content type="text">Coupang eats recently lowered minimum fee paid to delivery riders from 3200won to 2500won which is around 30% drop. This service does not protect the employees at all. Amazingly, the riders do not get any insurance and have to pay for any damages that may occur during work. Plz boycott this company</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>1</im:rating>
+				
+					<updated>2021-04-05T10:46:46-07:00</updated>
+				
+					<im:version>1.2.14</im:version>
+				
+					<author><name>JIIIIJIJ</name><uri>https://itunes.apple.com/us/reviews/id116700370</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;Please don’t use coupang eats&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Coupang eats recently lowered minimum fee paid to delivery riders from 3200won to 2500won which is around 30% drop. This service does not protect the employees at all. Amazingly, the riders do not get any insurance and have to pay for any damages that may occur during work. Plz boycott this company&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>7166281308</id>
+				
+					<title>빈정상해서 삭제함</title>
+				
+					<content type="text">첫주문쿠폰 받으러더니 받을려고 들어가니
+쿠폰이 다 떨어졌데... 장난하니? 바로삭제</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>1</im:rating>
+				
+					<updated>2021-03-31T05:14:34-07:00</updated>
+				
+					<im:version>1.2.13</im:version>
+				
+					<author><name>ntssane</name><uri>https://itunes.apple.com/us/reviews/id42515573</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;빈정상해서 삭제함&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;첫주문쿠폰 받으러더니 받을려고 들어가니&lt;br/&gt;쿠폰이 다 떨어졌데... 장난하니? 바로삭제&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>6956608601</id>
+				
+					<title>Excellent app interface</title>
+				
+					<content type="text">The app itself is really fast and convenient to use. I’d say it’s the best designed food delivery app in South Korea. Delivery is usually excellent as well, especially the “Cheetah” delivery. In some cases the delivery fee can be a little too high and there isn’t a really large selection of restaurants or cafes yet. So overall it’s about 4 stars (probably 5 stars in the future).</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>4</im:rating>
+				
+					<updated>2021-02-05T03:30:52-07:00</updated>
+				
+					<im:version>1.2.6</im:version>
+				
+					<author><name>Haoladi</name><uri>https://itunes.apple.com/us/reviews/id316778384</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;Excellent app interface&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;The app itself is really fast and convenient to use. I’d say it’s the best designed food delivery app in South Korea. Delivery is usually excellent as well, especially the “Cheetah” delivery. In some cases the delivery fee can be a little too high and there isn’t a really large selection of restaurants or cafes yet. So overall it’s about 4 stars (probably 5 stars in the future).&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>6870710922</id>
+				
+					<title>다 좋은데 다른 결제법도 생기면 좋겠어요~</title>
+				
+					<content type="text">히히</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2021-01-14T16:51:57-07:00</updated>
+				
+					<im:version>1.2.3</im:version>
+				
+					<author><name>bubblyjudy</name><uri>https://itunes.apple.com/us/reviews/id1149453770</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;다 좋은데 다른 결제법도 생기면 좋겠어요~&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;히히&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>6847803318</id>
+				
+					<title>Changes</title>
+				
+					<content type="text">I was in love with this app and never had a complaint until recently. I used to have so many food options but for the past two weeks, about 80% of previous food places are now labeled unavailable to my area.....These are places I’ve been ordering from for the past year so I am very confused about what happened. And they all happened at once. It wasn’t a gradual loss of available options.</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>1</im:rating>
+				
+					<updated>2021-01-08T21:02:18-07:00</updated>
+				
+					<im:version>1.2.2</im:version>
+				
+					<author><name>asggbkxgh</name><uri>https://itunes.apple.com/us/reviews/id388884630</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;Changes&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;I was in love with this app and never had a complaint until recently. I used to have so many food options but for the past two weeks, about 80% of previous food places are now labeled unavailable to my area.....These are places I’ve been ordering from for the past year so I am very confused about what happened. And they all happened at once. It wasn’t a gradual loss of available options.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				
+					<id>6840867284</id>
+				
+					<title>멀리서도 배달와서 좋음</title>
+				
+					<content type="text">안되던되도 배달 되서 좋음</content>
+				
+					<im:contentType term="Application" label="Application"/>
+				
+					<im:voteSum>0</im:voteSum>
+				
+					<im:voteCount>0</im:voteCount>
+				
+					<im:rating>5</im:rating>
+				
+					<updated>2021-01-07T02:23:39-07:00</updated>
+				
+					<im:version>1.2.2</im:version>
+				
+					<author><name>jjuniqq</name><uri>https://itunes.apple.com/us/reviews/id116801763</uri></author>
+				
+					<link rel="related" href="https://itunes.apple.com/us/review?id=1445504255&amp;type=Purple%20Software"/>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                    
+                    	&lt;td width=&quot;100%&quot;&gt;
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://apps.apple.com/us/app/coupang-eats-food-delivery/id1445504255?uo=2&quot;&gt;멀리서도 배달와서 좋음&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;안되던되도 배달 되서 좋음&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+	</feed>
