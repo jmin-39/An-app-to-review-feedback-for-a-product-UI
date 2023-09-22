@@ -19,7 +19,6 @@ In the context of building a demo application for app review feedback from the A
 5. Building an App UI using Gradio.
 
 ## Prompt Engineering
-### Few-shot prompts
 ### 1. Entity extraction 
 ```python
 prompt = "Extract entities (e.g., names, locations, product) from the review text:"
