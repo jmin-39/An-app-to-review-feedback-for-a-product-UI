@@ -21,11 +21,14 @@ In the context of building a demo application for app review feedback from the A
 ### Few-shot prompts
 ### 1. Entity extraction 
 ```python
-prompt = "Extract entities (e.g., names, locations, dates) from the following text:"
+prompt = "Extract entities (e.g., names, locations, product) from the review text:"
 ```
 ### 2. Sentiment
 ```python
-prompt = "Classify the review text into negative or positive."
+prompt = "Classify the review text into negative or positive.
+Text: {text}
+
+Sentiment:""""
 ```
 ### 3. Summary
 ```python
@@ -34,7 +37,7 @@ prompt = "It's nice that they support English, but the menus are a bit strange i
 ```
 
 ## Build an App UI with Gradio
-* Gradio Public link: https://5f9d920f62dbcfc2c5.gradio.live
+* Gradio Public link: https://5f9d920f62dbcfc2c5.gradio.live](https://33ba773263d50b79f5.gradio.live
 <img width="1050" alt="App UI" src="https://github.com/jmin-39/An-app-to-review-feedback-for-a-product/assets/85851625/6d92561f-1a0b-4f3d-a55f-88dca8b246ac">
 
 * Sample App UI
