@@ -46,6 +46,7 @@ prompt = "It's nice that they support English, but the menus are a bit strange i
 
 
 ## Next steps
+- Developing an app to deploy a model using IBM Cloud and Watson Studio
 - Due to capacity issues with the local LLM model, I opted to use GPT-3 using Openai.
 - The necessity of fine-tuning
 
